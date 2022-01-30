@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/Letters/A.png</file>
+        <file>Resources/Letters/B.png</file>
+        <file>Resources/Letters/BB.png</file>
+        <file>Resources/Letters/C.png</file>
+        <file>Resources/Letters/D.png</file>
+        <file>Resources/Letters/E.png</file>
+        <file>Resources/Letters/F.png</file>
+        <file>Resources/Letters/G.png</file>
+        <file>Resources/Letters/H.png</file>
+        <file>Resources/Letters/I.png</file>
+        <file>Resources/Letters/J.png</file>
+        <file>Resources/Letters/K.png</file>
+        <file>Resources/Letters/L.png</file>
+        <file>Resources/Letters/M.png</file>
+        <file>Resources/Letters/N.png</file>
+        <file>Resources/Letters/O.png</file>
+        <file>Resources/Letters/P.png</file>
+        <file>Resources/Letters/Q.png</file>
+        <file>Resources/Letters/R.png</file>
+        <file>Resources/Letters/S.png</file>
+        <file>Resources/Letters/T.png</file>
+        <file>Resources/Letters/U.png</file>
+        <file>Resources/Letters/V.png</file>
+        <file>Resources/Letters/W.png</file>
+        <file>Resources/Letters/X.png</file>
+        <file>Resources/Letters/Y.png</file>
+        <file>Resources/Letters/Z.png</file>
+        <file>Resources/BoardAttributes/DL.png</file>
+        <file>Resources/BoardAttributes/DW.png</file>
+        <file>Resources/BoardAttributes/star.png</file>
+        <file>Resources/BoardAttributes/tile.png</file>
+        <file>Resources/BoardAttributes/TL.png</file>
+        <file>Resources/BoardAttributes/TW.png</file>
+        <file>Resources/Menu/undo.png</file>
+        <file>Resources/Menu/calibrate.png</file>
+    </qresource>
+</RCC>

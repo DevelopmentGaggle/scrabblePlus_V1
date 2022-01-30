@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>BlankPopup</class>
+ <widget class="QDialog" name="BlankPopup">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>130</width>
+    <height>110</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QPushButton {
+	color: rgb(255, 255, 255);
+	font: 700 13pt &quot;Segoe UI&quot;;
+	background-color: rgb(13, 183, 100); /*light green*/
+	/*border-color: rgb(13, 186, 255); /*light blue*/
+	border-radius: 7px;
+}
+
+QPushButton:hover {
+	background-color: rgb(6, 165, 75); /*darkish green*/
+}
+
+QPushButton:pressed {
+	background-color:  rgb(15, 121, 63); /*dark green*/
+}
+
+QGraphicsView {
+	border: 3px solid white;
+	border-radius:10px;
+}
+
+QListWidget {
+	border: 3px solid white;
+	border-radius:10px;
+}
+
+QLineEdit {
+	color: rgb(255, 255, 255);
+	font: 700 13pt &quot;Segoe UI&quot;;
+	background-color: rgb(0, 153, 255); /*light blue*/
+	border: 3px solid rgb(0, 153, 255); /*light blue*/
+	border-radius:10px;
+}</string>
+  </property>
+  <widget class="QLineEdit" name="lineEdit">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>110</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>70</y>
+     <width>110</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>OK</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
